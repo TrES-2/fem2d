@@ -1,0 +1,2 @@
+D:/myCode/fem2d/build/CMakeFiles/ALL_BUILD.dir
+D:/myCode/fem2d/build/CMakeFiles/ZERO_CHECK.dir
